@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Notesify/static/css/main.1246387a.css",
+    "main.js": "/Notesify/static/js/main.d7ed6011.js",
+    "index.html": "/Notesify/index.html",
+    "main.1246387a.css.map": "/Notesify/static/css/main.1246387a.css.map",
+    "main.d7ed6011.js.map": "/Notesify/static/js/main.d7ed6011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1246387a.css",
+    "static/js/main.d7ed6011.js"
+  ]
+}
